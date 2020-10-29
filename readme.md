@@ -1,7 +1,9 @@
 ## Hello World!
 
-<br><br>
+<br>
 
-This is the page created by Bootstrap: 
+This is the pages using Bootstrap: 
 
-[Fruitty Paradise](index.html)
+[Exercise 1](cards.html)
+
+[Exercise 2](grid-ahoy.html)
